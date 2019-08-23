@@ -1,4 +1,4 @@
-## RageFrame 2.0
+## setFrame 1.0
 
 为二次开发而生，让开发变得更简单
 
@@ -6,7 +6,7 @@
 
 这是一款现代化、快速、高效、便捷、灵活、方便扩展的应用开发骨架。
 
-RageFrame创建于2016年4月16日，一个基于Yii2高级框架的快速开发引擎，目前正在成长中，目的是为了集成更多的基础功能，不在为相同的基础功能重复制造轮子，开箱即用，让开发变得更加简单。  
+setFrame创建于2016年4月16日，一个基于Yii2高级框架的快速开发引擎，目前正在成长中，目的是为了集成更多的基础功能，不在为相同的基础功能重复制造轮子，开箱即用，让开发变得更加简单。  
 2018年9月10日 2.0版本正式上线，经过1.0版本一年多的开源反馈磨合，以更加优秀的形态出现。对1.0的版本进行了重构优化完善，更好的面向开发者进行二次开发。2.3.x版本更是优化了底层突出了服务层，分离业务逻辑，支持多商户。  
 
 ### 特色
@@ -28,7 +28,7 @@ RageFrame创建于2016年4月16日，一个基于Yii2高级框架的快速开发
 
 ### 思维导图
 
-![image](docs/guide-zh-CN/images/RageFrame2.png)
+![image](docs/guide-zh-CN/images/setFrame2.png)
 
 ### 系统快照
 
@@ -58,15 +58,16 @@ RageFrame创建于2016年4月16日，一个基于Yii2高级框架的快速开发
 - 能查看日志和Debug技能
 - 一定要仔细走一遍文档
 
+<!-- 
 ### Demo
 
-地址：http://demo2.rageframe.com/backend  
+地址：http://demo2.setFrame.com/backend  
 账号：demo  
 密码：123456
 
 ### 官网
 
-http://www.rageframe.com
+http://www.setFrame.com
 
 ### 文档
 
@@ -78,7 +79,7 @@ http://www.rageframe.com
 
 QQ群：[655084090](https://jq.qq.com/?_wv=1027&k=4BeVA2r)
 
-Github：https://github.com/jianyan74/rageframe2/issues
+Github：https://github.com/jianyan74/setFrame2/issues
 
 ### 特别鸣谢
 
@@ -94,10 +95,11 @@ AdminLTE：https://adminlte.io
 
 ### 版权信息
 
-RageFrame遵循Apache2开源协议发布，并提供免费使用。
+setFrame遵循Apache2开源协议发布，并提供免费使用。
 
 本项目包含的第三方源码和二进制文件之版权信息另行标注。
 
-版权所有Copyright © 2016-2019 by RageFrame [www.rageframe.com](http://www.rageframe.com)
+版权所有Copyright © 2016-2019 by setFrame [www.setFrame.com](http://www.setFrame.com)
 
 All rights reserved。
+-->
