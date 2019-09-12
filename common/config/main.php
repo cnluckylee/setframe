@@ -1,6 +1,6 @@
 <?php
 return [
-    'name' => 'RageFrame',
+    'name' => 'setFrame',
     'version' => '2.3.94',
     'aliases' => [
         '@bower' => '@vendor/bower-asset',
